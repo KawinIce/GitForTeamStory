@@ -11,8 +11,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![knight](/img/knight.png)
 
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. ระหว่างทาง ไนท์ได้พบกับนักสืบผู้ชาญฉลาด ทั้งสองคนร่วมมือกันอ่านแผนที่และค้นหาเส้นทางที่ถูกต้อง พวกเขาต้องผ่านป่าลึกลับและไขปริศนาต่าง ๆ เพื่อเดินทางไปยังปราสาทให้สำเร็จ
+   ![detective](/img/detective.png)
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
