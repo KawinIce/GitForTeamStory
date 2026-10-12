@@ -7,8 +7,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. กาลละครั้งหนึ่งนานมาแล้ว มีเจ้าชายรูปงามที่น่าเกลียด ขี่ม้าสีขาวดำทมิฬ   
-   ![prince](/img/prince.jpg)
+1. กาลครั้งหนึ่งนานมาแล้ว มีอัศวินผู้กล้าชื่อไนท์ วันหนึ่งเขาพบแผนที่ลึกลับที่บอกตำแหน่งของสมบัติมหาศาลซึ่งซ่อนอยู่ในปราสาทมังกร เขาจึงตัดสินใจออกเดินทางเพื่อตามหาสมบัติในตำนาน  
+   ![knight](/img/knight.png)
 
 
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
