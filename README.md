@@ -7,8 +7,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+1. กาลละครั้งหนึ่งนานมาแล้ว มีเจ้าชายรูปงามที่น่าเกลียด ขี่ม้าสีขาวดำทมิฬ   
+   ![prince](/img/prince.jpg)
+
 
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
    (Nobody is sure yet.)
