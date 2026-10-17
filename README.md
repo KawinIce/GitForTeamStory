@@ -19,8 +19,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. ทันใดนั้น พ่อมดผู้มีเวทมนตร์ก็ปรากฏตัวขึ้นและเสนอความช่วยเหลือเขาร่ายคาถาทำให้มังกรสงบลง พร้อมเปิดประตูลับของปราสาท ไนท์และนักสืบจึงเดินเข้าไปค้นหาห้องเก็บสมบัติได้อย่างปลอดภัย  
    ![treasure chest](/img/wizard.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. ในที่สุด พวกเขาก็พบหีบสมบัติที่เต็มไปด้วยทองคำและอัญมณีล้ำค่า ไนท์ดีใจมาก แต่เขาติดสินใจนำสมบัติบางส่วนกลับไปช่วยเหลือผู้ยากไร้แทนที่จะเก็บไว้ทั้งหมด ![treasure_open](/img/treasure_open.png)
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
