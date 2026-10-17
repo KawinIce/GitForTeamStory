@@ -16,8 +16,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 3. เมื่อเดินทางมาถึงปราสาท พวกเขาพบมังกรตัวใหญ่กำลังเฝ้าทางเข้า มังกรพ่นไฟข่มขู่ผู้ที่เข้ามาใกล้ ไนท์รู้สึกกลัว แต่เขาก็รวบรวมความกล้าและคิดหาวิธีผ่านมังกรไปโดยไม่ทำร้ายมัน ![dragon](/img/dragon.png)
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+4. ทันใดนั้น พ่อมดผู้มีเวทมนตร์ก็ปรากฏตัวขึ้นและเสนอความช่วยเหลือเขาร่ายคาถาทำให้มังกรสงบลง พร้อมเปิดประตูลับของปราสาท ไนท์และนักสืบจึงเดินเข้าไปค้นหาห้องเก็บสมบัติได้อย่างปลอดภัย  
+   ![treasure chest](/img/wizard.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
