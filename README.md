@@ -14,7 +14,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. ระหว่างทาง ไนท์ได้พบกับนักสืบผู้ชาญฉลาด ทั้งสองคนร่วมมือกันอ่านแผนที่และค้นหาเส้นทางที่ถูกต้อง พวกเขาต้องผ่านป่าลึกลับและไขปริศนาต่าง ๆ เพื่อเดินทางไปยังปราสาทให้สำเร็จ
    ![detective](/img/detective.png)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3.  ![dragon](/img/dragon.png) เมื่อเดินทางมาถึงปราสาท พวกเขาพบมังกรตัวใหญ่กำลังเฝ้าทางเข้า มังกรพ่นไฟข่มขู่ผู้ที่เข้ามาใกล้ ไนท์รู้สึกกลัว แต่เขาก็รวบรวมความกล้าและคิดหาวิธีผ่านมังกรไปโดยไม่ทำร้ายมัน
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
