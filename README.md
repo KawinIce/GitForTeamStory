@@ -21,7 +21,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 5. ในที่สุด พวกเขาก็พบหีบสมบัติที่เต็มไปด้วยทองคำและอัญมณีล้ำค่า ไนท์ดีใจมาก แต่เขาติดสินใจนำสมบัติบางส่วนกลับไปช่วยเหลือผู้ยากไร้แทนที่จะเก็บไว้ทั้งหมด ![treasure_open](/img/treasure_open.png)
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. เมื่อกลับถึงหมู่บ้าน ไนท์ได้รับการต้อนรับอย่างอบอุ่นจากชาวเมือง ทุกคนชื่นชมในความกล้าหาญและความมีน้ำใจของเขา ตั้งแต่นั้นมา ไนท์ก็กลายเป็นวีรบุรุษของอาณาจักร และทุกคนได้เรียนรู้ว่าความดีมีค่ามากกว่าสมบัติใด ๆ  ![knight](/img/knight.png)  
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
