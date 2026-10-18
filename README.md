@@ -26,10 +26,3 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 7. ไนท์และนักสืบช่วยกันค้นหาความจริงจนพบว่า เจ้าชายเคยซ่อนจดหมายสำคัญไว้ในปราสาท จดหมายนั้นเปิดเผยความจริงเกี่ยวกับอดีตของอาณาจักร เมื่อเจ้าชายได้เห็นความจริงถูกเปิดเผย วิญญาณของเขาก็ค่อย ๆ สงบลง ก่อนจากไป เจ้าชายขอบคุณไนท์และมอบอัญมณีวิเศษให้เป็นของขวัญ ไนท์จึงเดินทางกลับบ้านพร้อมเรื่องราวการผจญภัยครั้งใหม่ที่น่าจดจำ
    ![prince](/img/prince.jpg)
-
-8. The cat was supposed to talk here, but the line is missing.  
-
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
-
-10. The ending… well, we don’t really have one. Please fix this.
